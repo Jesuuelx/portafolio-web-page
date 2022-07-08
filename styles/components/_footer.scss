@@ -1,0 +1,39 @@
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
+
+.footer-button {
+    margin-top: 25px;
+    background-color: $primary;
+    color: $white;
+    border: none;
+    padding:5px 20px;
+    font-family: Monserat;
+    font-weight: bold;
+    
+}
+
+.footer-social {
+   
+    color:$dark-grey;
+    margin:  0 5px;
+}
+
+#footer-span {
+    color:$primary;
+    font-weight: bold;
+}
+
+.footer-p {
+    margin-top: 25px;
+}
+
+.footer-box {
+    margin-top: 25px;
+}
+

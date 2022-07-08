@@ -1,0 +1,43 @@
+.main-box {
+    background-color:$primary;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 100%;
+}
+
+
+.main-h1 {
+    color: $white;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.main-p {
+    margin-top: 15px;
+    text-align: center;
+    color: $white;
+}
+
+.main-button {
+    margin-top: 15px;
+    background-color: $white;
+    color: $primary;
+    border: none;
+    padding: 10px;
+    font-weight: bold;
+    
+}
+
+
+.main-menu-link {
+    padding: 4px 6px;
+    border-radius: 3px;
+}
+
+.main-menu-link:hover,
+.main-menu-link_active {
+  background-color:$primary;
+  transition: 0.5s;
+}

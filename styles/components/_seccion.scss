@@ -1,0 +1,43 @@
+.seccion-menu {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.seccion-button {
+    color:$primary;
+    background: none;
+    font-size: 30px;
+    font: bold;
+    border: none;
+    padding: 0px 20px;
+    line-height: 60px;
+    cursor: pointer;
+    background-color:$white;
+}
+
+svg {
+    width: 30px;
+    height: 30px;
+}
+
+.seccion-nav {
+    display: flex;
+    margin-right: 40px;
+    list-style: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 768px) { 
+
+    .seccion-nav{
+        display: none;
+    }
+
+}
+

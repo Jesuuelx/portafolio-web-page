@@ -1,0 +1,52 @@
+.grilla-principal {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.grilla {
+  display: flex;
+  flex-direction: column;
+}
+
+.grilla img {
+  width: 400px;
+}
+
+.grilla-dos {
+  display: flex;
+  flex-direction: column;
+}
+
+.grilla-dos img {
+  width: 400px;
+  margin-left: 20px;
+}
+
+.grilla-tres {
+  display: flex;
+  flex-direction: column;
+}
+
+.grilla-tres img {
+  width: 400px;
+  margin-left: 20px;
+}
+
+img {
+  margin-top: 20px;
+  box-shadow:0 0 20px $dark-grey;
+}
+
+.image5 {
+    height: 698px;
+}
+
+.image2 {
+    height: 476px;
+}
+
+.altura {
+  height: 400px;
+}

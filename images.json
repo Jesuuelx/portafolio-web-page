@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "image":"./assets/snop.avif"
+    },
+   
+    {
+      "id": 2,
+      "image":"./assets/nieve.avif"
+      
+    },
+    {
+      "id": 3,
+      "image":"./assets/mediana.avif"
+    },
+    {
+      "id": 4,
+      "image":"./assets/lambo2.avif"
+    },
+    {
+      "id": 5,
+      "image":"./assets/mediana.avif"
+    },
+    {
+      "id": 6,
+      "image":"./assets/artificial.avif"
+    },
+    {
+      "id": 7,
+      "image":"./assets/nieve.avif"
+    },
+    {
+      "id": 8,
+      "image":"./assets/lambo2.avif"
+    },
+    {
+      "id": 9,
+      "image":"./assets/snop.avif"
+    },{
+      "id": 10,
+      "image":"./assets/lambo2.avif"     
+
+    }
+]
